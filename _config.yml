@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "The Lam Than / Homepage"
 title_separator          : "-"
-name                     : &name "tlamt02"
+name                     : &name "lmmtt014"
 description              : &description "BSc. Biochemistry from University of Cologne"
 url                      : https://tlamt02.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

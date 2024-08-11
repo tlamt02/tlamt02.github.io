@@ -8,24 +8,13 @@ I am using Academic Pages on Github Pages template for building my personal webs
 
 # Getting Started
 
-1. Think about what to do next
-1. Think about possible projects
-1. What kind of project do I want to deploy here
-1. Effort/Reward curve drawn for project pursuer
 1. Structural biology with analysis of protein crystal  
 1. 3D volume viewer for microscopy images
-1. Molecular dynamics simulation
-1. Protein-Protein binding simulation
-1. Probably solvent effect
-1. Weak interactive forces simulation
-
 
 ## Progress
 
-Should I go all for the projects or should I just deploy one?
-
-1. Starting with depiction of 3D protein structure of CK2
-1. Gif of the structure
+1. Starting
+1. Gif 
 
 # Direction  
 
