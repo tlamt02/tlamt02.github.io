@@ -6,7 +6,6 @@ collection: portfolio
 
 Protein model retrieved from PDB Entry 4PBZ 
 =====
-
 Insight into the Architecture of the NuRD Complex: <a href="https://doi.org/10.1107/S2053230X1901238X">Structure OF THE Rbap48-Mta1 Subcomplex*</a>, Alqarni et al.(2014), Journal of Biological Chemistry, Volume 289, Issue 32.
 
 

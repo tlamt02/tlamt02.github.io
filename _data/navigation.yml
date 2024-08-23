@@ -7,8 +7,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
- # - title: "Side projects"
- #   url: /talks/    
+  - title: "Side projects"
+    url: /test_HTML/    
             
  # - title: "Blog Posts"
  #   url: /year-archive/
