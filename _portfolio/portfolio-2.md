@@ -14,5 +14,9 @@ distributed under the terms of the <a href="https://creativecommons.org/licenses
 
 
 Alignment
-seqA='MDWTWRILFLVAAATGAPSQVH-LVQSGSELKKPGASVKVSCKASGYSFSRYGIKWVRQAPGQGLEWMGWINT-RSGVPAYAQGFTGRFVFSLDTSVDTAFLEISSLKTEDTGIYYCATRPPRFYDKTEYWEDGFDVWGRGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFP-AVL-QSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKRVEPKS-', seqB='----------------------KL------L-------------S--S-S---------------E------TKR----A-A-----R-------------------------------R-P-------Y-----------------------------------------------K-----------------------PIA-LRQ----------------S---Q-----------------------A', 
+
+seqA='MDWTWRILFLVAAATGAPSQVH-LVQSGSELKKPGASVKVSCKASGYSFSRYGIKWVRQAPGQGLEWMGWINT-RSGVPAYAQGFTGRFVFSLDTSVDTAFLEISSLKTEDTGIYYCATRPPRFYDKTEYWEDGFDVWGRGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFP-AVL-QSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKRVEPKS-'
+
+seqB='----------------------KL------L-------------S--S-S---------------E------TKR----A-A-----R-------------------------------R-P-------Y-----------------------------------------------K-----------------------PIA-LRQ----------------S---Q-----------------------A'
+
 score=21.0, start=0, end=253
