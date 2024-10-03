@@ -8,7 +8,7 @@ main:
     url: /portfolio/
 
   - title: "Side Projects"
-  url: https://tlamt02.github.io/imalilodracon
-            
+    external_url: https://tlamt02.github.io/imalilodracon
+
  # - title: "Blog Posts"
  #   url: /year-archive/
