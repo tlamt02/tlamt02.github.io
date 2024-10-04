@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Freshly graduated from Biochemistry, I am open to further exploring the world of science by zooming into the nanoscale. Great inventions in the field of biology have deployed intrusments for visualizing biomolecules, from DNA, RNA to proteins, cells and organisms to various organs. This blogspot collects current depiction of biological samples.
+Now doing my Master in Biophysics. Combining the intersection of the interdisciplinary distinguished domains in Life Science, I am keen on systematic active patching to fit overlapping regions of a modern scientific topic. Newly opened to the scope of theorists´ point of view, I find generalisation and clustering of interconnected points to be rather descriptive, rather tending to unveil further exploration in the world of science. To be able to patch things as detailly to the nanoscale is similar to finding an analogy in other unrelated domain. 
 
-Imaging cells with Light Microscope
-======
-In the Module of PC, I have had the luck to present the topic of Tissue clearing and its application in Neuroimaging. With Light-sheet Microscopy we can easily view a whole 3D brain volume of rodent mice. This insight provides further direction for other researches in the field of Neuroimaging.
+Great inventions in the field of biology have deployed intrusments for visualizing biomolecules, from DNA, RNA to proteins, cells and organisms to various organs. This blogspot collects current depiction of biological samples.
 
-
+A) Nanoscale
 Protein X-ray structure
 ======
 After a protein was crystallized successfully, it 3-dimensional structure can be analyzed with a soure of X-ray beam. Information gained from these experiments provides many Biochemists with the correct conformation for their protein of interest. 
@@ -30,8 +28,19 @@ Protein-protein interaction simulation
 ------
 In silico models have developed possible approach to sorting out possible protein interaction partners.
 
-Any related topics?
+B) Microscale
+Imaging cells with Light Microscope
+======
+The topic of Tissue clearing and its application in Neuroimaging opens up windows for inspecting selective areas. With Light-sheet Microscopy we can easily view a whole 3D brain volume of rodent mice. This insight provides further direction for other researches in the field of Neuroscience.
+
+Network and dynamic simulation
 ------
-In case you also are embarking on this journey, please grab me out of the mist and get into contact. I reply the fastest via Instagram, or LinkedIN :D
-I am delighted to present to you this blogspot!
-Looking forward to hearing from you soon, dear fellow companions!
+Overarching stand point for infering behavioral relationship within a reactive chain. Being as detailed as to how certain external stimuli can be sensitive to the reaction.
+
+C) Organism and componential interaction
+------
+Encompasses a broad inspection of certain systematic expansion. 
+
+Let´s get chatty on LinkedIn
+------
+Delighted to get connected
