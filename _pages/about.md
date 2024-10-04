@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Now doing my Master in Biophysics. Combining the intersection of the interdisciplinary distinguished domains in Life Science, I am keen on systematic active patching to fit overlapping regions of a modern scientific topic. Newly opened to the scope of theorists´ point of view, I find generalisation and clustering of interconnected points to be rather descriptive, rather tending to unveil further exploration in the world of science. To be able to patch things as detailly to the nanoscale is similar to finding an analogy in other unrelated domain. 
+Now doing my Master in Biophysics. After observing interdisciplinary domains in Life Science, I am keen on finding a systematic patch for pulling branches to overlapping regions, which lies within a modern application. Recently introduced to theoretical scope, I find generalisation and clustering to be rather descriptive. These methods tend to unveil further possiblities to patch things as detailly as to the nanoscale. The whole structure is comparable with finding an analogy in another (yet) unrelated domain. 
 
-Great inventions in the field of biology have deployed intrusments for visualizing biomolecules, from DNA, RNA to proteins, cells and organisms to various organs. This blogspot collects current depiction of biological samples.
+Great inventions in the field of Biology have deployed intrusments for visualizing biomolecules, from DNA, RNA to proteins, cells and organisms to various organs. This blogspot collects current depiction of biological samples.
 
 A) Nanoscale
 Protein X-ray structure
-======
-After a protein was crystallized successfully, it 3-dimensional structure can be analyzed with a soure of X-ray beam. Information gained from these experiments provides many Biochemists with the correct conformation for their protein of interest. 
+------
+After a protein was crystallized successfully, its 3-dimensional structure can be analyzed with a soure of X-ray beam. Information gained from these experiments provides many Biochemists with the correct conformation for their protein of interest. 
 
 Protein structure prediction with Alphafold
 ------
@@ -30,7 +30,7 @@ In silico models have developed possible approach to sorting out possible protei
 
 B) Microscale
 Imaging cells with Light Microscope
-======
+------
 The topic of Tissue clearing and its application in Neuroimaging opens up windows for inspecting selective areas. With Light-sheet Microscopy we can easily view a whole 3D brain volume of rodent mice. This insight provides further direction for other researches in the field of Neuroscience.
 
 Network and dynamic simulation
