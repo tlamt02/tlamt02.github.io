@@ -32,8 +32,6 @@ Skills
   * Profiling structure and their patterns
 * Experimental Biophysics: molecular dynamics and biophysical interaction
   * Categorizing application domain
-* Routinal usage of documentation and presentation tools
-* MatLab, Python
   
 Languages
 ======
