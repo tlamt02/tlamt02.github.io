@@ -20,3 +20,5 @@ seqA='MDWTWRILFLVAAATGAPSQVH-LVQSGSELKKPGASVKVSCKASGYSFSRYGIKWVRQAPGQGLEWMGWINT-
 seqB='----------------------KL------L-------------S--S-S---------------E------TKR----A-A-----R-------------------------------R-P-------Y-----------------------------------------------K-----------------------PIA-LRQ----------------S---Q-----------------------A'
 
 score=21.0, start=0, end=253
+
+The alignment only displays sequential overlapping regions of the 2 proteins.
