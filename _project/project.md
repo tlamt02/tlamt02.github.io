@@ -1,10 +1,10 @@
 ---
-title: "Check my project landing page at"
-excerpt: "Brrr"
+title: "Testver"
+excerpt: "TestWeb"
 collection: project
 ---
 
-Presenting Imalilo Draconaloth
+Imalilo
 ======
 <a href="https://tlamt02.github.io/imalilodracon/"> Hosted by GitHub </a>
 
